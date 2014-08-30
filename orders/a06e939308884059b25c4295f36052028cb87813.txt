@@ -1,0 +1,5 @@
+Customer Identifying Number:4
+Order Identifying Number:a06e939308884059b25c4295f36052028cb87813
+Credit Card Number:3530111333300000
+Amount:$27.87
+Order Date:2013-11-09 11:58:24
